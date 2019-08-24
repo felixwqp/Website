@@ -11,7 +11,7 @@ function App() {
 <Layout>
     <Header className="header-color" title="Felix Wang" scroll>
         <Navigation>
-            <Link to="/">Felix</Link>
+            <Link to="/Website">Felix</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/resume">Resume</Link>
             <Link to="/contact">Contact</Link>
